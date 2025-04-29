@@ -35,7 +35,15 @@ Install required libraries:
 ```
 pip install nltk scikit-learn
 ```
-Run the chatbot:
-```
-python chatbot.py
-```
+Run the chatbot
+
+
+
+
+## Some outputs from the chatbot 
+![Screenshot 2025-04-29 135542](https://github.com/user-attachments/assets/5701323b-ad75-4de1-b9b6-500df6271220)
+![Screenshot 2025-04-29 135430](https://github.com/user-attachments/assets/37ad0527-0135-497d-bf9e-2fd82ffef165)
+![Screenshot 2025-04-29 135357](https://github.com/user-attachments/assets/32189a33-a270-48c4-a319-b012fcf64668)
+![Screenshot 2025-04-29 135313](https://github.com/user-attachments/assets/a3739185-c443-48fa-8187-4be105c0b90a)
+
+
