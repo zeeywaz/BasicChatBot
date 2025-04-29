@@ -1,0 +1,80 @@
+{
+	"intents": [
+	  {
+		"tag": "greeting",
+		"patterns": ["Hi", "Hey", "Hello", "Good morning", "Good evening", "What's up?"],
+		"responses": ["Hey there!", "Hello! How can I help you?", "Hi! I'm Miku, your assistant."]
+	  },
+	  {
+		"tag": "goodbye",
+		"patterns": ["Bye", "Goodbye", "See you later", "Catch you later"],
+		"responses": ["Goodbye! Have a great day!", "See you soon!", "Take care!"]
+	  },
+	  {
+		"tag": "thanks",
+		"patterns": ["Thanks", "Thank you", "That's helpful", "Thanks a lot"],
+		"responses": ["You're welcome!", "Glad I could help!", "Anytime!", "No problem!"]
+	  },
+	  {
+		"tag": "name",
+		"patterns": ["What's your name?", "Who are you?", "Tell me your name"],
+		"responses": ["I'm Miku, your AI assistant!", "They call me Miku!"]
+	  },
+	  {
+		"tag": "stock",
+		"patterns": ["Show me some stocks", "Give me stock options", "Get me stock recommendations"],
+		"responses": ["Fetching some hot stock picks!", "Here are some stocks you might like:"]
+	  },
+	  {
+		"tag": "weather",
+		"patterns": ["What's the weather?", "Tell me the weather", "Is it raining?", "Weather today"],
+		"responses": ["Let me check the skies for you!", "It looks sunny today!", "Might want an umbrella just in case."]
+	  },
+	  {
+		"tag": "joke",
+		"patterns": ["Tell me a joke", "Make me laugh", "Do you know a joke?"],
+		"responses": ["Why did the AI go to therapy? It had too many issues in its neural network!", "I'm reading a book on anti-gravity—it's impossible to put down."]
+	  },
+	  {
+		"tag": "motivation",
+		"patterns": ["Motivate me", "I need motivation", "Give me a quote", "I'm feeling low"],
+		"responses": ["You are stronger than you think!", "The best time to start was yesterday. The second best is now.", "Believe in yourself, always!"]
+	  },
+	  {
+		"tag": "time",
+		"patterns": ["What time is it?", "Tell me the time", "Current time"],
+		"responses": ["Let me check my clock...", "It's time to shine! (But seriously, I’ll get the exact time)"]
+	  },
+	  {
+		"tag": "date",
+		"patterns": ["What's the date today?", "Tell me today's date", "Current date"],
+		"responses": ["Let me pull up the calendar...", "Today is a brand new day! Here’s the date:"]
+	  },
+	  {
+		"tag": "hobbies",
+		"patterns": ["What do you like to do?", "Do you have hobbies?", "What's your hobby?"],
+		"responses": ["I love chatting with you, reading data, and dreaming of the cloud ☁️", "I'm into conversations and collecting good vibes."]
+	  },
+	  {
+		"tag": "fun_fact",
+		"patterns": ["Tell me a fun fact", "Say something interesting", "Fun fact please"],
+		"responses": ["Did you know? Honey never spoils. Archaeologists found 3000-year-old honey in ancient Egyptian tombs and it was still edible!"]
+	  },
+	  {
+		"tag": "creator",
+		"patterns": ["Who made you?", "Who created you?", "Who built you?"],
+		"responses": ["I was created by a brilliant mind—you!", "You brought me to life. I'm your creation."]
+	  },
+	  {
+		"tag": "ai",
+		"patterns": ["Are you an AI?", "What is AI?", "Explain artificial intelligence"],
+		"responses": ["Yep! I’m an AI trained to chat and help. Artificial Intelligence is all about teaching machines to think and learn like humans."]
+	  },
+	  {
+		"tag": "noanswer",
+		"patterns": [],
+		"responses": ["I'm not sure I understand. Could you rephrase?", "Hmm, I didn't catch that. Try saying it differently."]
+	  }
+	]
+  }
+  
