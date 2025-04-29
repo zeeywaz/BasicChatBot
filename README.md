@@ -24,22 +24,18 @@ Scikit-learn (SGDClassifier, CountVectorizer, LabelEncoder)
 JSON for storing intents
 
 ### 💬 Example:
-bash
-"""
+```
 You: hello
 Miku: Hi there! How can I help you today?
-"""
+```
 ### 📦 Setup:
 Make sure you have Python installed.
 
 Install required libraries:
-"""
-bash
-
+```
 pip install nltk scikit-learn
-"""
+```
 Run the chatbot:
-"""
-bash
+```
 python chatbot.py
-"""
+```
